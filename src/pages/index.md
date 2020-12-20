@@ -6,10 +6,10 @@ sections:
     type: section_hero
     title: Hi! I'm Marcus. How can I help you?
     content: >-
-      I am a freelance web developer with a passion for creating ultra fast,
-      responsive web apps using today's leading technologies such as React and a
-      Headless CMS.  Contact me today if you have a project you would like me to
-      work on.
+      I am a freelance web developer with a passion for creating cutting-edge,
+      ultra fast, responsive websites and apps using today's leading
+      technologies such as React or Vue on top of a Headless CMS.  Contact me
+      today if you have a project you would like me to work on.
     actions:
       - label: Let's talk
         url: /contact

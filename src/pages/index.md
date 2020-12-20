@@ -66,9 +66,7 @@ sections:
           are looking for.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+        content: 'Wow! Kick ass '
   - section_id: latest-posts
     type: section_posts
     title: My Latest Articles

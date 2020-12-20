@@ -52,7 +52,7 @@ sections:
     subtitle: Here's what people have to say about my work
     col_number: three
     testimonials:
-      - author: 'Sean Salazar, WineTimeFridays.com'
+      - author: 'Sean Salazar, <a WineTimeFridays.com'
         avatar: images/sean_salazar.jpg
         content: >-
           Marcus created a wonderful WordPress based site for us. His service

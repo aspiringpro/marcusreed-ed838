@@ -54,7 +54,7 @@ sections:
     testimonials:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
-        content: 'Marcus created a wonderful site for us '
+        content: 'Marcus created a wonderful site for us at '
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-

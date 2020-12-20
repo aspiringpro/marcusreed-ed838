@@ -54,7 +54,9 @@ sections:
     testimonials:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
-        content: Marcus created a wonderful site for us at WineTimeFridays. H
+        content: >-
+          Marcus created a wonderful site for us at WineTimeFridays. His service
+          was always prompt and professional.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-

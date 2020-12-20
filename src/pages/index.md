@@ -33,7 +33,8 @@ sections:
         content: >-
           Design is an essential part of what I do. I am skilled with all Adobe
           products and am also a big fan of open-source software such as GIMP
-          and Inkscape.
+          and Inkscape.  Logos, flyers, banners, websites, you name it, I can do
+          it.  
       - title: Development
         content: >-
           I am using the latest and greatest web technologies to deliver the

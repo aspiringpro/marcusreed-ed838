@@ -40,9 +40,8 @@ sections:
           fastest, most user-friendly websites and apps for my clients. 
       - title: Branding
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Branding is much more than a pretty logo and a fancy website. Let me
+          help deliver a cohesive brand experience to your consumers.
       - title: Maintenance
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis

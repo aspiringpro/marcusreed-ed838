@@ -66,7 +66,7 @@ sections:
           are looking for.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
-        content: 'Wow! Kick ass '
+        content: Wow! Kick ass design and my website flies
   - section_id: latest-posts
     type: section_posts
     title: My Latest Articles

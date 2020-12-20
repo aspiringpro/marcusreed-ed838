@@ -36,9 +36,8 @@ sections:
           and Inkscape.
       - title: Development
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          I am using the latest and greatest web technologies to deliver the
+          fastest, most user-friendly websites and apps for my clients. 
       - title: Branding
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero

@@ -66,7 +66,9 @@ sections:
           are looking for.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
-        content: Wow! Kick ass design and my website flies
+        content: >-
+          Wow! Kick ass design and my website flies. Way faster than my old
+          Wordpress site
   - section_id: latest-posts
     type: section_posts
     title: My Latest Articles

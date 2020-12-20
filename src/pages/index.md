@@ -54,7 +54,7 @@ sections:
     testimonials:
       - author: >-
           Sean Salazar, <a
-          href="http://www.winetimefridays.com>WineTimeFridays.com
+          href="http://www.winetimefridays.com">WineTimeFridays.com
         avatar: images/sean_salazar.jpg
         content: >-
           Marcus created a wonderful WordPress based site for us. His service

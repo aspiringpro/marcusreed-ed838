@@ -45,7 +45,8 @@ sections:
       - title: Branding
         content: >-
           Branding is much more than a pretty logo and a fancy website. Let me
-          help deliver a cohesive brand experience to your consumers.
+          help deliver a cohesive brand experience to your consumers that
+          seperates you from your competition.
       - title: Maintenance
         content: >-
           I can assist you in making updates to your website, blog, facebook and

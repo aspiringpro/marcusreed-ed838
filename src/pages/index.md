@@ -73,7 +73,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: My Latest Articles
-    subtitle: 'Because every '
+    subtitle: Because every site needs a blog
     posts_number: 3
     col_number: three
     actions:

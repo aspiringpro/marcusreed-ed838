@@ -49,8 +49,8 @@ sections:
           seperates you from your competition.
       - title: Maintenance
         content: >-
-          I can assist you in making updates to your website, blog, facebook and
-          other social media accounts.
+          I am available to assist you in making updates or modifications to
+          your website, blog, facebook and other social media accounts.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

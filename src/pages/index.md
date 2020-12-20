@@ -51,7 +51,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: 'Here''s what '
+    subtitle: 'Here''s what people have to say '
     col_number: three
     testimonials:
       - author: Sean Salazar

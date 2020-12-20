@@ -39,6 +39,9 @@ sections:
         content: >-
           I am using the latest and greatest web technologies to deliver the
           fastest, most user-friendly websites and apps for my clients. 
+          Although I prefer to use Javascript based libraries like React or Vue
+          to create custom pieces, I can also use and customize systems like
+          WordPress or other CMS systems to fit your needs.  
       - title: Branding
         content: >-
           Branding is much more than a pretty logo and a fancy website. Let me

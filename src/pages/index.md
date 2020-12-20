@@ -55,8 +55,8 @@ sections:
       - author: 'Sean Salazar, WineTimeFridays.com'
         avatar: images/sean_salazar.jpg
         content: >-
-          Marcus created a wonderful site for us. His service was always prompt
-          and professional.  I look forward to working with him.
+          Marcus created a wonderful WordPress site for us. His service was
+          always prompt and professional.  I look forward to working with him.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-

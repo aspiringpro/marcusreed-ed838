@@ -69,7 +69,7 @@ sections:
         content: >-
           Wow! Kick ass design and my website flies. Way faster than my old
           WordPress site and a much nicer design.  My old site didn't work on
-          phone
+          phones
   - section_id: latest-posts
     type: section_posts
     title: My Latest Articles

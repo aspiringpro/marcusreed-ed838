@@ -68,8 +68,7 @@ sections:
         avatar: images/deegan_wallace.jpg
         content: >-
           Wow! Kick ass design and my website flies. Way faster than my old
-          WordPress site and a much nicer design.  My old site didn't work on
-          phones and now it does!
+          WordPress site.  My old site didn't work on phones and now it does!
   - section_id: latest-posts
     type: section_posts
     title: My Latest Articles

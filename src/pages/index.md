@@ -62,7 +62,8 @@ sections:
         avatar: images/aubrey_hoover.jpg
         content: >-
           If you're looking for a great web designer that won't break your
-          budget, then talk to Marcus. He knows how to delie
+          budget, then talk to Marcus. He knows how to deliver exactly what you
+          are looking for.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-

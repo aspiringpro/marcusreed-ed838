@@ -5,7 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: Welcome to My Portfolio Site
-    content: I am a freelance web developer who is ready to take on your next project.
+    content: >-
+      I am a freelance web developer with a passion for creating ultra fast,
+      responsive web apps using today's leading technologies such as React and a
+      Headless CMS.  Contact me today if you have a project you would like me to
+      work on.
     actions:
       - label: Let's talk
         url: /contact

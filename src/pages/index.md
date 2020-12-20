@@ -56,8 +56,9 @@ sections:
         avatar: images/sean_salazar.jpg
         content: >-
           Marcus created a wonderful site for us at <a
-          href="http://www.winetimefridays.com">WineTimeFridays. His service was
-          always prompt and professional.  I look forward to working with him.
+          href="http://www.winetimefridays.com">WineTimeFridays</a>. His service
+          was always prompt and professional.  I look forward to working with
+          him.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-

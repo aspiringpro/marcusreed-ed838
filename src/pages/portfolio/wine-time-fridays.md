@@ -5,6 +5,7 @@ excerpt: lorem-ipsum
 date: '2020-12-20'
 template: project
 thumb_image: images/screenshot-winetimefridays.com-2020.12.19-21_13_00.png
+image: images/polite-cedar.png
 ---
 ## Lorem ipsum
 

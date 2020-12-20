@@ -1,6 +1,6 @@
 ---
 title: Wine Time Fridays
-subtitle: lorem-ipsum
+subtitle: 'A '
 excerpt: lorem-ipsum
 date: '2020-12-20'
 template: project

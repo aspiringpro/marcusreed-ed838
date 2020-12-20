@@ -44,8 +44,8 @@ sections:
           help deliver a cohesive brand experience to your consumers.
       - title: Maintenance
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          I can assist you in making updates to your website, blog, facebook and
+          other social media accounts.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

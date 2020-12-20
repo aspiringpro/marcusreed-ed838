@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - General Inquiry
-          - Sponsorship
+          - Request for Proposal
           - ''
       - input_type: textarea
         name: message

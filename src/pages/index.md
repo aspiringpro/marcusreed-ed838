@@ -31,9 +31,9 @@ sections:
     grid_items:
       - title: Design
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Design is an essential part of what I do. I am skilled with all Adobe
+          products and am also a big fan of open-source software such as GIMP
+          and Inkscape.
       - title: Development
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam

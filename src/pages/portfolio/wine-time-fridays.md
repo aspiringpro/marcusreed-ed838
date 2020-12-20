@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Wine Time Fridays
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2020-12-20'

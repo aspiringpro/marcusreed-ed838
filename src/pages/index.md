@@ -68,7 +68,7 @@ sections:
         avatar: images/deegan_wallace.jpg
         content: >-
           Wow! Kick ass design and my website flies. Way faster than my old
-          WordPress site
+          WordPress site and 
   - section_id: latest-posts
     type: section_posts
     title: My Latest Articles

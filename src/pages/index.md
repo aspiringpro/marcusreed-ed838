@@ -62,7 +62,7 @@ sections:
         avatar: images/aubrey_hoover.jpg
         content: >-
           If you're looking for a great web designer that won't break your
-          budget, then talk to Marcu
+          budget, then talk to Marcus
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-

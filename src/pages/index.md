@@ -60,7 +60,9 @@ sections:
           him.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
-        content: If you're looking for a great web designer
+        content: >-
+          If you're looking for a great web designer that won't break your
+          budget
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-

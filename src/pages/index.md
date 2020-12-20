@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Welcome to My Portfolio Site
+    title: ''
     content: >-
       I am a freelance web developer with a passion for creating ultra fast,
       responsive web apps using today's leading technologies such as React and a

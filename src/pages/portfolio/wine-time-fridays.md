@@ -1,6 +1,6 @@
 ---
 title: Wine Time Fridays
-subtitle: A CAsual Wine Blog
+subtitle: A Casual Wine Blog
 excerpt: lorem-ipsum
 date: '2020-12-20'
 template: project

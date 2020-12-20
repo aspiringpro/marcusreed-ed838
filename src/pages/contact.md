@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - 'General '
+          - General Inquiry
           - Sponsorship
           - ''
       - input_type: textarea

@@ -28,7 +28,7 @@ sections:
         options:
           - General Inquiry
           - Request for Proposal
-          - ''
+          - Other
       - input_type: textarea
         name: message
         label: Message

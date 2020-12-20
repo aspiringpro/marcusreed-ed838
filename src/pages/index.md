@@ -25,7 +25,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Services
-    subtitle: 'This is '
+    subtitle: These are some of the areas I work in
     col_number: two
     is_numbered: true
     grid_items:

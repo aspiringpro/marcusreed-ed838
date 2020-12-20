@@ -56,7 +56,8 @@ sections:
         avatar: images/sean_salazar.jpg
         content: >-
           Marcus created a wonderful site for us at WineTimeFridays. His service
-          was always prompt and professional.
+          was always prompt and professional.  I look forward to working with
+          him
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-

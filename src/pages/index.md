@@ -38,6 +38,9 @@ sections:
           stickers, buttons, etc. I am a fan of clean and simple designs, but if
           loud and bold is your style, then I can certainly adapt my personal
           style to fit your needs.   
+
+
+          > Have no fear of perfection—you’ll never reach it. –Salvador Dali
       - title: Development
         content: >-
           As my knowledge of coding languages is quite extensive,  I am capable

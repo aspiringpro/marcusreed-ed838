@@ -40,7 +40,8 @@ sections:
           style to fit your needs.   
 
 
-          > Have no fear of perfection—you’ll never reach it. 
+          > Have no fear of perfection—you’ll never reach it.
+
 
           >Salvador Dali
       - title: Development

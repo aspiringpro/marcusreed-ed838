@@ -31,10 +31,13 @@ sections:
     grid_items:
       - title: Design
         content: >-
-          Design is an essential part of what I do. I am skilled with all Adobe
-          products and am also a big fan of open-source software such as GIMP
-          and Inkscape.  Logos, flyers, banners, websites, you name it, I can do
-          it.  
+          Design is an essential part of what I do. I am skilled with the most
+          popular graphic design software including most Adobe products and am
+          also a big fan of open-source software such as GIMP and Inkscape.  I
+          enjoy designing things like logos, flyers, website graphics, banners,
+          menus, stickers, buttons, etc. I am a fan of clean and simple designs,
+          but if loud and bold is your style, then I can certainly adapt my
+          personal style to fit your needs.   
       - title: Development
         content: >-
           I am using the latest and greatest web technologies to deliver the

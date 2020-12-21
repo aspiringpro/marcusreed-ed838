@@ -42,7 +42,9 @@ sections:
         content: >-
           As my knowledge of coding languages is quite extensive,  I am capable
           of using the latest and greatest web technologies to deliver the
-          fastest, most user-friendly websites and apps for my clients.  
+          fastest, most user-friendly websites and apps for my clients.  Just
+          know that the site or application that I develop for you, will be
+          elegant, functional, blazing-fast, and extremely effective.   
       - title: Branding
         content: >-
           Branding is much more than a pretty logo and a fancy website. Let me

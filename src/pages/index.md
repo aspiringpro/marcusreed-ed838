@@ -42,7 +42,8 @@ sections:
 
           > Have no fear of perfection—you’ll never reach it. 
 
-          --Salvador Dali
+
+          >--Salvador Dali
       - title: Development
         content: >-
           As my knowledge of coding languages is quite extensive,  I am capable

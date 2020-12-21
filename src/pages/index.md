@@ -70,10 +70,7 @@ sections:
           your website, blog, facebook and other social media accounts.
 
 
-          > As we lose ourselves in the service of others we discover our own
-          lives and our own happiness. 
-
-          -Dieter F. Uchtdorf
+          > All of your customers are partners in your mission. -Shep Hyken
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

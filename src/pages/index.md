@@ -57,7 +57,9 @@ sections:
           seperates you from the competition.  
 
 
-          > A brand is a voice and a product is a souvenir.  - Lisa Gansky
+          > A brand is a voice and a product is a souvenir.  
+
+          - Lisa Gansky
       - title: Maintenance
         content: >-
           I am available to assist you in making updates or modifications to

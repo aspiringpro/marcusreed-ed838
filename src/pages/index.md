@@ -48,6 +48,10 @@ sections:
           fastest, most user-friendly websites and apps for my clients.  Just
           know that the site or application that I develop for you, will be
           elegant, functional, blazing-fast, and extremely effective.   
+
+
+          > Creativity is a highfalutin word for the work I have to do between
+          now and Tuesday. –Ray Kroc
       - title: Branding
         content: >-
           Branding involves much more than a designing a pretty logo and a fancy

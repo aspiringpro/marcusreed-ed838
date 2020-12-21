@@ -66,6 +66,10 @@ sections:
         content: >-
           I am available to assist you in making updates or modifications to
           your website, blog, facebook and other social media accounts.
+
+
+          > As we lose ourselves in the service of others we discover our own
+          lives and our own happiness. -Dieter F. Uchtdorf
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

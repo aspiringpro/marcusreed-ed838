@@ -47,9 +47,16 @@ sections:
           elegant, functional, blazing-fast, and extremely effective.   
       - title: Branding
         content: >-
-          Branding is much more than a pretty logo and a fancy website. Let me
-          help deliver a cohesive brand experience to your consumers that
-          seperates you from your competition.
+          Branding involves much more than a designing a pretty logo and a fancy
+          website. Colors, fonts, and slick graphics don't mean anything if they
+          are not put together with a brand identity and strategy in mind.  Let
+          me help deliver a cohesive brand experience to your consumers that
+          seperates you from the competition.  
+
+
+          > A brand is a voice and a product is a souvenir. 
+
+          - Lisa Gansky
       - title: Maintenance
         content: >-
           I am available to assist you in making updates or modifications to

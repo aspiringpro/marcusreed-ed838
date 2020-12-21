@@ -71,7 +71,9 @@ sections:
 
 
           > As we lose ourselves in the service of others we discover our own
-          lives and our own happiness. -Dieter F. Uchtdorf
+          lives and our own happiness. 
+
+          -Dieter F. Uchtdorf
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

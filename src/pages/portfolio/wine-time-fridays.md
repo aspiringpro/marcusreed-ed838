@@ -7,9 +7,10 @@ template: project
 thumb_image: images/screenshot-winetimefridays.com-2020.12.19-21_13_00.png
 image: images/polite-cedar.png
 ---
-## Lorem ipsum
+## Wine Time Fridays
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is a casual lifestyle blog that I created using WordPress and some custom themeing.
 
-- Lorem ipsum
-- dolor sit amet
+- WordPress
+- Custom Theme Integration
+- Plugin Integrations

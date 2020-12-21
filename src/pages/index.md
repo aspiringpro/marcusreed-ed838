@@ -30,7 +30,7 @@ sections:
     is_numbered: true
     grid_items:
       - title: Design
-        content: >
+        content: >-
           Design is an essential part of what I do. I am skilled with popular
           graphic design softwares including most Adobe products and am also a
           big fan of open-source software such as GIMP and Inkscape.  I enjoy
@@ -41,6 +41,8 @@ sections:
 
 
           > Have no fear of perfection—you’ll never reach it.
+
+          -Salvador Dali
       - title: Development
         content: >-
           As my knowledge of coding languages is quite extensive,  I am capable

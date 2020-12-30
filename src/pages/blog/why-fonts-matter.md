@@ -1,7 +1,7 @@
 ---
 title: Why Fonts Matter
 excerpt: >-
-  It is a good read for anybody involved in the graphic design industry and
+  ...a good read for anybody involved in the graphic design industry and
   provides her insights into why we react certain ways to different fonts and
   which types of fonts should be used to convey certain messages properly to our
   audiences...

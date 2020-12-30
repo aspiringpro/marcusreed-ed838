@@ -5,7 +5,7 @@ excerpt: >-
   anticipation of working from home. The pandemic has changed the landscape of
   working professionals around the world and many have already adapted to this
   new lifestyle.
-date: '2016-08-30'
+date: '2020-12-30'
 thumb_image: images/9.jpg
 image: images/9.jpg
 template: post

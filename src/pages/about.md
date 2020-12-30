@@ -5,10 +5,9 @@ image: images/me-2.jpg
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+A little about me.  I was born in raised in Southern California and I enjoy a wide range of activities including Tennis, Golf, Basketball, Football, Pool, Shooting, Archery, Gaming, and many more.  Other passions of mine are drawing, painting, designing, programming and marketing, 
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+There are many layers to this onion!
 
-*Thank You for reading!*

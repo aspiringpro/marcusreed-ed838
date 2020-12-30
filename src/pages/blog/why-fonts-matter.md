@@ -1,7 +1,7 @@
 ---
 title: Why Fonts Matter
 excerpt: A good read that should be a part of any graphic designers personal library.
-date: '2019-03-27'
+date: '2020-12-30'
 thumb_image: images/12.jpg
 image: images/12.jpg
 template: post

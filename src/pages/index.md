@@ -47,9 +47,10 @@ sections:
         content: >-
           As my knowledge of coding languages is quite extensive,  I am capable
           of using the latest and greatest web technologies to deliver the
-          fastest, most user-friendly websites and apps for my clients.  Just
-          know that the site or application that I develop for you, will be
-          elegant, functional, blazing-fast, and extremely effective.   
+          fastest, most user-friendly websites and apps for my clients.  Take
+          solice in the fact that the site or application that I develop for
+          you, will be elegant, functional, blazing-fast, and extremely
+          effective.   
 
 
           > Creativity is a highfalutin word for the work I have to do between

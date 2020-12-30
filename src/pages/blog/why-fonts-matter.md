@@ -4,7 +4,7 @@ excerpt: >-
   It is a good read for anybody involved in the graphic design industry and
   provides her insights into why we react certain ways to different fonts and
   which types of fonts should be used to convey certain messages properly to our
-  audiences.
+  audiences...
 date: '2020-12-01'
 thumb_image: images/12.jpg
 image: images/12.jpg

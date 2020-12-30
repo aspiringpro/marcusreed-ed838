@@ -1,6 +1,6 @@
 ---
 title: Why Fonts Matter
-excerpt: 'A good read for '
+excerpt: A good read that should be a part of any graphic designers library.
 date: '2019-03-27'
 thumb_image: images/12.jpg
 image: images/12.jpg

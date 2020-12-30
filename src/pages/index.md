@@ -72,29 +72,6 @@ sections:
 
 
           > All of your customers are partners in your mission. -Shep Hyken
-  - section_id: testimonials
-    type: section_testimonials
-    title: Testimonials
-    subtitle: Here's what people have to say about my work
-    col_number: three
-    testimonials:
-      - author: 'Sean Salazar, WineTimeFridays.com'
-        avatar: images/sean_salazar.jpg
-        content: >-
-          Marcus created a wonderful WordPress based site for us. His service
-          was always prompt and professional.  I look forward to working with
-          him.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        content: >-
-          If you're looking for a great web designer that won't break your
-          budget, then talk to Marcus. He knows how to deliver exactly what you
-          are looking for.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        content: >-
-          Wow! Kick ass design and my website flies. Way faster than my old
-          WordPress site.  My old site didn't work on phones and now it does!
   - section_id: latest-posts
     type: section_posts
     title: My Latest Articles

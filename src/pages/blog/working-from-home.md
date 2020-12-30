@@ -1,9 +1,10 @@
 ---
 title: Working from Home
 excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit.
+  As 2020 is drawing to a close, many of us are looking toward the New Year with
+  anticipation of working from home. The pandemic has changed the landscape of
+  working professionals around the world and many have already adapted to this
+  new lifestyle.
 date: '2016-08-22'
 thumb_image: images/9.jpg
 image: images/9.jpg

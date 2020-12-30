@@ -9,5 +9,5 @@ A little about me.  I was born in raised in Southern California and I enjoy a wi
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-There are many layers to this onion!
+There are many layers to this onion! [Contact me](/contact) to find out more.
 

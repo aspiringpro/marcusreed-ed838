@@ -10,7 +10,7 @@ image: images/12.jpg
 template: post
 ---
 
-**Why Fonts Matter**, is a book a read recently by the author Sarah Hyndman.
+**Why Fonts Matter**, is a book I read recently by the author Sarah Hyndman.
 
 It is a good read for anybody involved in the graphic design industry and provides her insights into why we react certain ways to different fonts and which types of fonts should be used to convey certain messages properly to our audiences.
 

@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Lake City Coaching
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2021-08-09'

@@ -5,7 +5,7 @@ excerpt: NPCME
 date: '2021-08-09'
 template: project
 thumb_image: images/npcme.png
-image: images/Screenshot 2021-08-08 9.56.42 PM.png
+image: images/npcme.png
 ---
 ## NPCME works!
 

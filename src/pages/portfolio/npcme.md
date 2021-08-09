@@ -5,6 +5,7 @@ excerpt: NPCME
 date: '2021-08-09'
 template: project
 thumb_image: images/1.jpg
+image: images/1.jpg
 ---
 ## Lorem ipsum
 

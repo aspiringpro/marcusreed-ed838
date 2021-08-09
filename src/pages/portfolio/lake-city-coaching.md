@@ -1,6 +1,6 @@
 ---
 title: Lake City Coaching
-subtitle: lorem-ipsum
+subtitle: A fantastic health and life coach was in need of an amazing website.
 excerpt: lorem-ipsum
 date: '2021-08-09'
 template: project

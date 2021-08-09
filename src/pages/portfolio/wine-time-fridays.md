@@ -11,6 +11,8 @@ image: images/polite-cedar.png
 
 This is a casual lifestyle blog that I created using WordPress and some custom themeing.
 
-- WordPress
-- Custom Theme Integration
-- Plugin Integrations
+*   WordPress
+*   Custom Theme Integration
+*   Plugin Integrations
+
+[Visit the site](https://www.winetimefridays.com)

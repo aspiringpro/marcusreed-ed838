@@ -5,9 +5,6 @@ excerpt: lorem-ipsum
 date: '2021-08-09'
 template: project
 ---
-## Lorem ipsum
+## LakeCityCoaching.com
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+I was able to create a beautiful Gatsby based static progressive website for my client that captured the essence of the business perfectly. Because it was a small business, we were able to start and host this site for a very low cost which made this client happy.

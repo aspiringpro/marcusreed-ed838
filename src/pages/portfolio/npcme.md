@@ -9,9 +9,9 @@ image: images/1.jpg
 ---
 ## NPCME works!
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+NPCME is a low budget e-commerce and digital fulfillment site. It utilizes:
 
-*   Lorem ipsum
-*   dolor sit amet
+*   Snipcart
+*   Stripe
 
 [Visit the site](https://www.npcontinuingedu.com)

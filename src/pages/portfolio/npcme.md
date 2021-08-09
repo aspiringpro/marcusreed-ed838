@@ -1,6 +1,6 @@
 ---
 title: NPCME
-subtitle: lorem-ipsum
+subtitle: A low cost e-commerce and digital delivery solution for NPCME
 excerpt: lorem-ipsum
 date: '2021-08-09'
 template: project

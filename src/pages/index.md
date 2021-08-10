@@ -6,10 +6,10 @@ sections:
     type: section_hero
     title: Hi! I'm Marcus. How can I help you?
     content: >
-      As a freelance web developer with a passion for creating cutting-edge,
-      ultra fast, responsive websites and apps, I am currently working with
-      today's leading technologies.  Contact me today if you have a project for
-      me to work on.
+      As a freelance consultant with a passion for creating cutting-edge, ultra
+      fast, responsive websites and apps, I am currently working with today's
+      leading technologies.  Contact me today if you have an idea or a project
+      for me to help you with.
     actions:
       - label: Let's talk
         url: /contact

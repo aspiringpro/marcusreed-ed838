@@ -39,7 +39,7 @@ export default class SectionPortfolio extends React.Component {
                       ) : 
                       <Link to={withPrefix(_.get(post, 'url', null))} className="project-link">
                         {_.get(post, 'frontmatter.thumb_image', null) && (
-                        <div className="project-thumbnail ">
+                        <div className="project-thumbnail inline-photo show-on-scroll">
                           <img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.title', null)} />
                         </div>
                         )}

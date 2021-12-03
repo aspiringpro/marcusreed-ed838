@@ -22,7 +22,7 @@ export default class SectionPortfolio extends React.Component {
                   )}
                 </div>
                 )}
-                <div className="block-content inline-photo show-on-scroll">
+                <div className="block-content show-on-scroll">
                   <div className={'portfolio-feed layout-' + _.get(section, 'layout_style', null)}>
                     {
                     _.map(recent_projects, (post, post_idx) => (

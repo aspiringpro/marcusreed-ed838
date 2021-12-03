@@ -11,7 +11,7 @@ export default class SectionPortfolio extends React.Component {
         let post_len = _.size(recent_projects);
         return (
             <section id={_.get(section, 'section_id', null)} className="block-portfolio block outer">
-              <div className="inner inline-photo show-on-scroll">
+              <div className="inner ">
                 {(_.get(section, 'title', null) || _.get(section, 'subtitle', null)) && (
                 <div className="block-header inner-sm">
                   {_.get(section, 'title', null) && (
